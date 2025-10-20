@@ -1,0 +1,34 @@
+[
+    {
+        "Model": "Decision Tree",
+        "Accuracy": 0.9230769230769231,
+        "Precision": 0.8,
+        "Recall": 1.0,
+        "F1-Score": 0.8888888888888888,
+        "Train Time (s)": 0.012
+    },
+    {
+        "Model": "Random Forest",
+        "Accuracy": 0.6923076923076923,
+        "Precision": 0.5,
+        "Recall": 0.5,
+        "F1-Score": 0.5,
+        "Train Time (s)": 0.247
+    },
+    {
+        "Model": "Logistic Regression",
+        "Accuracy": 0.6153846153846154,
+        "Precision": 0.3333333333333333,
+        "Recall": 0.25,
+        "F1-Score": 0.2857142857142857,
+        "Train Time (s)": 0.074
+    },
+    {
+        "Model": "SVM",
+        "Accuracy": 0.5384615384615384,
+        "Precision": 0.3333333333333333,
+        "Recall": 0.5,
+        "F1-Score": 0.4,
+        "Train Time (s)": 0.0
+    }
+]
